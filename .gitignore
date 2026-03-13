@@ -1,0 +1,23 @@
+# Python 
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# NLP data
+nltk_data/
+*.bin
+*.pkl
+*.model
+
+# Jupyter Notebook 
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# 
+.DS_Store
+Thumbs.db
